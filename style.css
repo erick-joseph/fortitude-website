@@ -3252,7 +3252,7 @@ body{
 	height: 50px;
 	border: none;
 	color:white;
-	margin-left: 300px;
+	left: 600px;
 }
 .single-clients button:hover {
 	background-color: rgb(255, 255, 255)
