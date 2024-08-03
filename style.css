@@ -3252,10 +3252,10 @@ body{
 	height: 50px;
 	border: none;
 	color:white;
-	left: 600px;
+	left: 700px;
 }
 .single-clients button:hover {
-	background-color: rgb(255, 255, 255)
+	background-color: white;
 	color: black;
 }
 .faq-head h2 {
