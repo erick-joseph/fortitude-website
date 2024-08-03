@@ -3242,7 +3242,7 @@ body{
 =======================*/
 .single-clients h1 {
 	color: white;
-	font-size: 35px;
+	font-size: 45px;
 	font-famliy: arial-black;
 	text-align: center;
 }
@@ -3254,7 +3254,7 @@ body{
 	color: #0c0458;
 }
 .single-clients button:hover {
-	background-color: white;
+	/*background-color: white;*/
 	color: black;
 }
 .faq-head h2 {
