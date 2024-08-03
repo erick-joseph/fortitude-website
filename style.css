@@ -3252,7 +3252,7 @@ body{
 	height: 50px;
 	border: none;
 	color:white;
-	left: 700px;
+	margin-left: 700px;
 }
 .single-clients button:hover {
 	background-color: white;
